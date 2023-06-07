@@ -9,7 +9,7 @@
     "start": "next start",
     "lint": "next lint",
     "prettier": "prettier --write .",
-    "prepare": "husky install && npx prisma generate",
+    "prepare": "husky install",
     "prisma": "npx prisma db push"
   },
   "dependencies": {

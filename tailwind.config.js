@@ -11,8 +11,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#4f46e5",
-        secondary: "#020617",
+        primary: "#071c4d",
+        accent: "#175cff",
+        secondary: "#F25767",
       },
       animation: {
         text: "text 5s ease infinite",
